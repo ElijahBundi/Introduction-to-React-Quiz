@@ -55,3 +55,7 @@ ul {
     transform: rotate(360deg);
   }
 }
+
+* {
+  background-image: "./public/1111.jpeg";
+}
